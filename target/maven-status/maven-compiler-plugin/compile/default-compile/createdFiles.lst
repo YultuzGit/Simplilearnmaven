@@ -1,0 +1,7 @@
+pages\BasePage.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\SearchPage.class
+com\simplilearn\SampleMaven\App.class
+utils\DataUtils.class
+pages\ProfilePage.class
